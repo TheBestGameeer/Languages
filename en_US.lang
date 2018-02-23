@@ -1,0 +1,14 @@
+command.join.joinTeam=You joined {0}
+command.join.premium=&dOnly premium users can pick their team! Purchase a rank at https://warzone.store/
+command.join.chosen=&cYou have already chosen a team.
+command.map=&7Currently playing &e{0} &7on map &e{1} &7by &e{2}
+command.maps=&eMaps ({0}):
+command.setnext.error.notFound=&cMap not found "{0}"
+command.setnext.success=&aSet the next map to &e{0} &7({1})
+command.next=&eNext map: &7{0}
+command.rotation=&e&lRotation:
+command.cancel=&aCountdowns cancelled.
+command.start.error.CannotStart=&cThe match cannot be started at this time.
+command.start.success=&aThe match has started!
+command.end.error.noMatchInProgress=&cNo match in progress.
+command.cycle.error.MatchInProgress=&cA match is currently in progress
