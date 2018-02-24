@@ -31,7 +31,7 @@ title.match.end.lose=&cYour team lost!
 title.match.end.tie=&eThe result was a tie!
 
 bossbar.match.waiting.single=&cWaiting for &b{0} &cmore player to join
-bossbar.match.waiting.plural=&cWaiting for &b{0} &cmore players to join
+bossbar.match.waiting=&cWaiting for &b{0} &cmore players to join
 bossbar.match.starting.single=&aMatch starting in &c{0} &asecond
 bossbar.match.starting=&aMatch starting in &c{0} &aseconds
 
