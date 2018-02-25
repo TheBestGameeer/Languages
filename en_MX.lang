@@ -1,166 +1,110 @@
 command.join.joinTeam=You joined {0}
-
 Te uniste a {0}
 
 command.join.error.notPremium=&dOnly premium users can pick their team! Purchase a rank at https://warzone.store/
-
 &dSólo los usuarios premium pueden escoger su equipo! Compra un rango en https://warzone.store/
 
 command.join.error.alreadyInTeam=&cYou have already chosen a team.
-
 &cYa estás en un equipo.
 
 command.map=&7Currently playing &e{0} &7on map &e{1} &7by &e{2}
-
 &7Jugando &e{0} &7en el mapa &e{1} &7por &e{2}
 
 command.maps.title=&eMaps ({0}/{1}):
-
 &eMapas ({0}/{1}):
 
 command.setnext.error.notFound=&cMap not found "{0}"
-
 &cMapa no encontrado "{0}"
 
 command.setnext=&aSet the next map to &e{0} &7({1})
-
 &aSiguiente mapa establecido a &e{0} &7({1})
 
 command.next=&7Next map: &e{0} &7on map &e{1} &7by &e{2}
-
 &7Siguiente mapa: &e{0} &7en el mapa &e{1} &7por &e{2}
-&7Siguiente mapa:
 
 command.rotation.title=&eActive Rotation({0}/{1}):
-
 &eRotación Activa ({0}/{1}):
 
 command.cancel=&aCountdowns cancelled.
-
 &aCuentas regresivas canceladas.
-&aCuenta (s) Regresiva (s) cancelada (s).
 
 command.start.error.cannotStart=&cThe match cannot be started at this time.
-
-&cLa partida no puede ser iniciada en este momento.
-&cNo se puede iniciar la partida por el momento.
+&cNo se puede iniciar la partida en este momento.
 
 command.start.success=&aThe match has started!
-
 &a¡La partida ha comenzado!
 
 command.end.error.noMatchInProgress=&cNo match in progress.
-
 &cNinguna partida en progreso.
 
 command.cycle.error.matchInProgress=&cA match is currently in progress.
-
 &cHay una partida en progreso.
-&cPartida en progreso.
 
 chat.match.start=&aThe match has started!
-
 &a¡La partida ha comenzado!
 
 chat.match.end.winningTeam=&5Winning Team: &b{0}
-
-&5Equipo ganador: &b{0}
 &5Equipo Ganador: &b{0}
-&5Ganador: &b{0}
 
 chat.match.end.winnerMessage=&7Congratulations!
-
 &7¡Felicitaciones!
 
 chat.match.end.spectatorMessage=&7Play next game?
-
 &7¿Quieres intentarlo de nuevo?
-&7¿Quieres jugar otra vez?
 
 chat.match.end.loserMessage=&7Better luck next time!
-
 &7¡Buena suerte para la próxima!
 
 item.teleportTool.name=&eTeleport Tool
-
 &eHerramienta de Teletransporte
-&eTeletransporte
 
 item.teamSelector.name=&eTeam Selection
-
 &eSelección de Equipo
 
 gui.teamSelector.autoJoin.name=&f&lAuto Join
-
 &f&lAuto-Unir
 
 gui.teamSelector.title=&nTeam Selector
-
-&nSelección de Equipo
 &nSelector de Equipo
 
 gui.teamSelector.playing=&r{0}&7/{1} playing.
-
 &r(0)&7/{1} jugando.
 
 gui.teamSelector.spectateLore=&rSpectate the match.
-
 &rObserva la partida.
-&rObserva como espectador.
-&rMira la partida como espectador.
 
 gui.teamSelector.spectating=&r{0}&7/{1} spectating.
-
 &r{0}&7/{1} observando.
-&r{0}&7/{1} mirando.
 
 title.match.end.win=&aYour team won!
-
-&a¡Tu equipo ganó!
 &a¡Tu equipo ha ganado!
 
 title.match.end.lose=&cYour team lost!
-
-&c¡Tu equipo perdió!
 &c¡Tu equipo ha perdido!
 
 title.match.end.tie=&eThe result was a tie!
-
-&e¡Empate!
 &e¡El resultado fue un empate!
 
 bossbar.match.waiting.single=&cWaiting for &b{0} &cmore player to join
-
 &cEsperando a que &b{0} jugador más se una.
 
 bossbar.match.waiting=&cWaiting for &b{0} &cmore players to join
-
 &cEsperando a que &b{0} &c jugadores más se unan.
 
 bossbar.match.starting.single=&aMatch starting in &c{0} &asecond
-
-&aPartida comenzando en &c{0} &asegundo
-&aComenzando en &c{0} &asegundo
+&aLa partida comenzará en &c{0} &asegundo
 
 bossbar.match.starting=&aMatch starting in &c{0} &aseconds
-
-&aPartida comenzando en &c{0} &asegundos
-&aComenzando en &c{0} &asegundos
+&aLa partida comenzará en &c{0} &asegundos
 
 scoreboard.objectives=&bObjectives
-
 &bObjetivos
 
 scoreboard.blitz.players=&bPlayers
-
 &bJugadores
 
 scoreboard.blitz.playersAlive=&r{0} &7Alive
-
-&r{0} &7vivos
 &r{0} &7Vivos
 
 scoreboard.tdm.kills=&r{0}&7/{1} &rKills
-
 &r{0}&7/{1} &rBajas
-&r{0}&7/{1} &rMuertes
